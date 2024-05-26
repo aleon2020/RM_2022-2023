@@ -8,13 +8,13 @@ IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO 
 
 ## 1. Resumen de los contenidos de teoría
 
-Resumen Teoría RM.pdf: Resumen de teoría en formato PDF.
+Fichero ['Resumen Teoría RM.pdf'](https://github.com/aleon2020/RM_2022-2023/blob/main/Resumen%20Teor%C3%ADa%20RM.pdf): Resumen de teoría en formato PDF.
 
 IMPORTANTE: Para hacer uso del índice interactivo que viene implementado en el resumen, debes descargar el documento en formato PDF.
 
 ## 2. Diapositivas utilizadas en clase
 
-Directorio 'Diapositivas Teoría': Dentro de este directorio se encuentran las diapositivas utilizadas en clase para abordar los contenidos teóricos de la asignatura.
+Directorio ['Diapositivas Teoría'](https://github.com/aleon2020/RM_2022-2023/tree/main/Diapositivas%20Teor%C3%ADa): Dentro de este directorio se encuentran las diapositivas utilizadas en clase para abordar los contenidos teóricos de la asignatura.
 
 ## 3. Enunciados de las prácticas
 
@@ -38,7 +38,7 @@ https://unibotics.org/academy/exercise/global_navigation/
 
 ## 4. Prácticas
 
-Directorios 'Práctica X: NombrePráctica': Cada uno de estos directorios corresponde a cada una de las prácticas realizadas en la asignatura, los cuáles incluyen el fichero de código fuente que se solicita, el cual siempre sigue el formato practicaX.py.
+Directorios ['Prácticas'](https://github.com/aleon2020/RM_2022-2023/tree/main/Pr%C3%A1cticas): Este directorio contiene cada una de las prácticas realizadas en la asignatura..
 
 ## 5. Blogs de las prácticas
 

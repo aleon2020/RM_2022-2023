@@ -18,7 +18,7 @@ Directorio ['Diapositivas Teoría'](https://github.com/aleon2020/RM_2022-2023/tr
 
 ## 3. Prácticas
 
-Directorios ['Prácticas'](https://github.com/aleon2020/RM_2022-2023/tree/main/Pr%C3%A1cticas): Este directorio contiene cada una de las prácticas realizadas en la asignatura..
+Directorios ['Prácticas'](https://github.com/aleon2020/RM_2022-2023/tree/main/Pr%C3%A1cticas): Este directorio contiene cada una de las prácticas realizadas en la asignatura.
 
 ## 4. Blogs de las prácticas
 

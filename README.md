@@ -32,10 +32,6 @@ Directorio ['Diapositivas Teoría'](https://github.com/aleon2020/RM_2022-2023/tr
 
 ## 3. Prácticas
 
-Directorios ['Prácticas'](https://github.com/aleon2020/RM_2022-2023/tree/main/Pr%C3%A1cticas): Este directorio contiene cada una de las prácticas realizadas en la asignatura.
-
-## 4. Blogs de las prácticas
-
 A continuación se detallan los enlaces a las entradas de los blogs correspondientes a cada práctica, que deben incluirse en el fichero URL_blog.txt:
 
 [BLOG PRÁCTICA 1](https://roboticamovil22-23albertoleonluengo.blogspot.com/2022/10/practice-1-basic-vacuum-cleaner_15.html)

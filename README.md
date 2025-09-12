@@ -36,11 +36,7 @@ A continuación se detallan los enlaces a las entradas de los blogs correspondie
 
 [BLOG PRÁCTICA 1](https://roboticamovil22-23albertoleonluengo.blogspot.com/2022/10/practice-1-basic-vacuum-cleaner_15.html)
 
-NOTA: Este blog corresponde al código del fichero 'practica1.py' (versión entregada), también se tiene otra versión de este código llamada practica1_v2.py. Recomiendo analizar las dos versiones para un mayor entendimiento de la práctica.
-
 [BLOG PRÁCTICA 2](https://roboticamovil22-23albertoleonluengo.blogspot.com/2022/11/practice-2-line-following.html)
-
-NOTA: Este blog corresponde al código del fichero 'practica2.py' (versión entregada), también se tiene otra versión de este código llamada practica2_v2.py. Recomiendo analizar las dos versiones para un mayor entendimiento de la práctica.
 
 [BLOG PRÁCTICA 3](https://roboticamovil22-23albertoleonluengo.blogspot.com/2022/11/practice-3-obstacle-avoidance.html)
 
